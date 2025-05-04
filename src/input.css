@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@theme {
+    --color-headings:#0B132A;
+    --color-alltext:#4F5665;
+    --color-background:#ffffff;
+    --color-buttons:#F53855;
+    --font-rubik: "Rubik",sans-serif;
+    --color-footer:#F8F8F8;
+    --color-divider:#EEEFF2;
+    --color-pricesSection:#FBFBFB;
+    --color-priceBorder:#DDDDDD;
+    --color-slidedots:#DDE0E4;
+}
+
